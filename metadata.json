@@ -1,0 +1,8 @@
+{
+  "name": "Copy of KineMotion AI",
+  "description": "Professional sports performance analysis tool for biomechanics, injury prevention, and RTS screening.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
